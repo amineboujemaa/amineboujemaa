@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="center">💡 What I Work On:</h3>
+<h3 align="left">💡 What I Work On:</h3>
 
 ###
 
